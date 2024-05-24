@@ -11,7 +11,7 @@ import javax.swing.plaf.FontUIResource;
 public class Frame {
     public Frame() {
         JFrame frame = new JFrame("Meu app");
-        frame.setSize(500, 500);
+        frame.setSize(1200, 500);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setVisible(true);
         frame.setLocationRelativeTo(null);
